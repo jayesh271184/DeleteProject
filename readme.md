@@ -5,6 +5,6 @@
 	git init
 
 2. for switching from one branch to another branch
-       git checkout -b `<branchName>`
-       example git checkout -b `dev`
+       git checkout -b <branchName>
+       example git checkout -b dev
 ```
